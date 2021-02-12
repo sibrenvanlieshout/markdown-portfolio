@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Computer
+2. Football
+3. Writingutensils
+   1. Pencil
+   2. Pen
+   3. Gom   
